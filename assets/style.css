@@ -1,0 +1,18 @@
+/* General Styling */
+
+nav {
+    background-color: #1F2933;
+}
+
+/* Classes */
+
+.navbar-brand {
+    background-color: #006644;
+    color: #9AA5B1;
+}
+
+.nav-link {
+    color: #9AA5B1;
+}
+
+/* IDs */
