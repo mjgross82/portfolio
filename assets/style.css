@@ -1,26 +1,38 @@
 /* General Styling */
 
 nav {
-    background-color: #1F2933;
+    background-color: #1F1F1F;
 }
 
 body {
-    background-color: #616E7C;
+    background-color: #121212;
+    color: #DDDDDD;
+}
+
+a {
+    color: #DDDDDD;
 }
 
 /* Classes */
 
-.navbar-brand {
-    background-color: #006644;
-    color: #9AA5B1;
-}
-
-.nav-link {
-    color: #9AA5B1;
-}
-
 .container {
-    background-color: #CBD2D9;
+    background-color: #1F1F1F;
+    margin-top: 20px;
+    margin-bottom: 20x;
+    padding: 20px;
+}
+
+.row {
+    padding: 20px;
+}
+
+.head {
+    color: #01DAC5;
+}
+
+.btn {
+    background-color: #C48FFF;
+    color: #261B32;
 }
 
 /* IDs */
