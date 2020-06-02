@@ -4,6 +4,10 @@ nav {
     background-color: #1F2933;
 }
 
+body {
+    background-color: #616E7C;
+}
+
 /* Classes */
 
 .navbar-brand {
@@ -13,6 +17,10 @@ nav {
 
 .nav-link {
     color: #9AA5B1;
+}
+
+.container {
+    background-color: #CBD2D9;
 }
 
 /* IDs */
