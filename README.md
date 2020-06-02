@@ -1,5 +1,5 @@
 # portfolio
 A mobile-responsive, three page portfolio website featuring the Bootstrap CSS Framework.
-![Link] (https://mjgross82.github.io/portfolio/index.html)
+[Link](https://mjgross82.github.io/portfolio/index.html)
 
-![image](assets/screenshot.png)
+![image](https://mjgross82.github.io/portfolio/assets/screenshot.png)
