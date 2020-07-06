@@ -1,36 +1,48 @@
 /* General Styling */
 
 nav {
-    background-color: #1F1F1F;
+    background-color: #161421;
 }
 
 body {
-    background-color: #121212;
-    color: #DDDDDD;
+    background-color: #2B2640;
+    color: #E2E2DD;
 }
 
-a {
-    color: #DDDDDD;
+h1 {
+    color: #7DF3E4;
 }
 
 /* Classes */
 
 .container {
-    background-color: #1F1F1F;
+    background-color: #161421;
     margin-top: 20px;
-    margin-bottom: 20x;
+    margin-bottom: 20px;
     padding: 20px;
 }
 
-.row {
-    padding: 20px;
+.card-body {
+    background-color: #22222C;
 }
 
-.head {
-    color: #01DAC5;
+.card-title {
+    color: #7DF3E4;
 }
 
 .btn {
     background-color: #C48FFF;
     color: #261B32;
+}
+
+.navbar-dark .navbar-nav .active .nav-link {
+    color: #F67DB9;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #736BA1;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #F67DB9;
 }
