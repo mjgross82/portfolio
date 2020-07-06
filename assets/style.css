@@ -5,12 +5,13 @@ nav {
 }
 
 body {
+    font-family: 'Roboto Mono', monospace;
     background-color: #2B2640;
-    color: #E2E2DD;
+    color: #F2F2F2;
 }
 
 h1 {
-    color: #7DF3E4;
+    color: #80FFE9;
 }
 
 /* Classes */
@@ -27,7 +28,7 @@ h1 {
 }
 
 .card-title {
-    color: #7DF3E4;
+    color: #80FFE9;
 }
 
 .btn {
@@ -36,13 +37,17 @@ h1 {
 }
 
 .navbar-dark .navbar-nav .active .nav-link {
-    color: #F67DB9;
+    color: #FF81BF;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: #736BA1;
+    color: #7970A9;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #F67DB9;
+    color: #9680FF;
+}
+
+.navbar-dark .navbar-brand h1:hover {
+    color: #9680FF;
 }
