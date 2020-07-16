@@ -6,6 +6,7 @@ nav {
 
 body {
     font-family: 'Roboto Mono', monospace;
+    /* background-color: #0B0A12; */
     background-color: #2B2640;
     color: #F2F2F2;
 }
@@ -23,10 +24,17 @@ h1 {
     padding: 20px;
 }
 
+.card {
+    background-color: #22222C;
+}
+
 .card-body {
     background-color: #22222C;
 }
 
+.card-header {
+    color: #80FFE9;
+}
 .card-title {
     color: #80FFE9;
 }
