@@ -15,6 +15,16 @@ h1 {
     color: #80FFE9;
 }
 
+/* IDs */
+
+#custom-toggler {
+    color: #FF81BF;
+}
+
+#custom-toggler:hover {
+    color: #9680FF;
+}
+
 /* Classes */
 
 .container {
@@ -35,8 +45,23 @@ h1 {
 .card-header {
     color: #80FFE9;
 }
+
 .card-title {
     color: #80FFE9;
+}
+
+.contact-list {
+    background-color: #22222C;
+    color: #F2F2F2;
+}
+
+.contact-icon {
+    color: #80FFE9;
+    display: inline-block;
+}
+
+.contact-icon:hover {
+    color: #9680FF;
 }
 
 .btn {
@@ -44,12 +69,12 @@ h1 {
     color: #261B32;
 }
 
-.navbar-dark .navbar-nav .active .nav-link {
-    color: #FF81BF;
-}
-
 .navbar-dark .navbar-nav .nav-link {
     color: #7970A9;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+    color: #FF81BF;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {

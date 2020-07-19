@@ -13,6 +13,8 @@
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <!-- Local CSS -->
   <link rel="stylesheet" href="assets/style.css">
+  <!-- Font Awesome -->
+  <script src="https://kit.fontawesome.com/e9afbb4d5e.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -21,25 +23,25 @@
   <nav class="navbar navbar-expand-md navbar-dark">
     <div class="col-8">
       <a class="navbar-brand" href="#">
-        <h1>M. Gross</h1>
+        <h1>Michael J. Gross</h1>
       </a>
     </div>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarLinks"
+    <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navbarLinks"
       aria-controls="navbarLinks" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+      <span><i class="fas fa-stream" id="custom-toggler"></i></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarLinks">
-      <ul class="navbar-nav col-4">
-        <li class="nav-item active">
-          <a class="nav-link" href="#">About<span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="portfolio.html">Portfolio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="contact.html">Contact</a>
-        </li>
-      </ul>
+
+    <div class="col-4">
+      <div class="collapse navbar-collapse" id="navbarLinks">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" href="#">About<span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="portfolio.html">Portfolio</a>
+          </li>
+        </ul>
+      </div>
     </div>
   </nav>
 
@@ -52,20 +54,26 @@
           <h5 class="head">About Me</h5>
         </div>
       </div> -->
-        <div class="row no-gutter">
+      <div class="row no-gutter">
         <div class="col-md-4">
-          <img
-            src="https://image.shutterstock.com/image-vector/male-profile-picture-placeholder-vector-600w-450966898.jpg"
-            class="card-img" alt="Placeholder male silhouette">
+          <img src="assets/self.JPG" class="card-img" alt="Photograph of Michael J. Gross">
         </div>
         <div class="col-md-8">
           <div class="card-body h-100">
             <h5 class="card-title">About Me</h5>
             <p class="card-text">My name is Michael Gross. I am originally from Connecticut, but I have also lived in
-              Oregon and now Utah. I love animals, art, literature, nature, and technology.<br>
-              <br>
+              Oregon and now Utah. I love animals, art, literature, nature, and technology.
+              <br><br>
               I am currently studying full-stack web development and highly motivated to pursue a career in that field.
             </p>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item border-0 contact-list">Phone: (203) 848-4651</li>
+              <li class="list-group-item border-0 contact-list">Email: mjgross@protonmail.com</li>
+              <li class="list-group-item border-0 contact-list"><a href="https://github.com/mjgross82"
+                  target="_blank"><i class="fab fa-github fa-2x contact-icon"></i></a> <a
+                  href="https://www.linkedin.com/in/michael-gross-5940211a8/" target="_blank"><i
+                    class="fab fa-linkedin fa-2x contact-icon"></i></a></li>
+            </ul>
           </div>
         </div>
       </div>
