@@ -22,5 +22,6 @@ A mobile-responsive portfolio website built on the Bootstrap framework.
 
 If you have any questions regarding this project, please contact me at:  
  GitHub: [mjgross82](https://github.com/mjgross82)  
- Email: [mjgross82@pm.me](mailto:mjgross82@pm.me)  
+ Email: [mjgross82@pm.me](mailto:mjgross82@pm.me) 
+  
  ![Follow me on GitHub](https://img.shields.io/github/followers/mjgross82?style=social)
