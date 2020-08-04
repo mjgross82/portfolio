@@ -1,20 +1,20 @@
 /* General Styling */
 
 a {
-    color: #80FFE9;
+    color: #8BFF80;
 }
 
 a:hover {
-    color: #9680FF;
+    color: #80FFE9;
     text-decoration: none;
 }
 
 .navbar-dark .navbar-brand {
-    color: #80FFE9;
+    color: #8BFF80;
 }
 
 .navbar-dark .navbar-brand:hover {
-    color: #9680FF;
+    color: #80FFE9;
 }
 
 nav {
@@ -29,7 +29,7 @@ body {
 }
 
 h1 {
-    color: #8BFF80;
+    color: #9680FF;
 }
 
 /* IDs */
@@ -39,7 +39,7 @@ h1 {
 }
 
 #custom-toggler:hover {
-    color: #9680FF;
+    color: #80FFE9;
 }
 
 /* Classes */
@@ -60,11 +60,11 @@ h1 {
 }
 
 .card-header {
-    color: #8BFF80;
+    color: #9680FF;
 }
 
 .card-title {
-    color: #8BFF80;
+    color: #9680FF;
 }
 
 .contact-list {
@@ -73,12 +73,12 @@ h1 {
 }
 
 .contact-icon {
-    color: #80FFE9;
+    color: #8BFF80;
     display: inline-block;
 }
 
 .contact-icon:hover {
-    color: #9680FF;
+    color: #80FFE9;
 }
 
 .btn {
@@ -87,7 +87,7 @@ h1 {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: #7970A9;
+    color: #FF957F;
 }
 
 .navbar-dark .navbar-nav .nav-link.active {
@@ -96,9 +96,9 @@ h1 {
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #9680FF;
+    color: #80FFE9;
 }
 
 .navbar-dark .navbar-brand h1:hover {
-    color: #9680FF;
+    color: #80FFE9;
 }
