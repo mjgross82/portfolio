@@ -1,5 +1,13 @@
 /* General Styling */
 
+.navbar-dark .navbar-brand {
+    color: #80FFE9;
+}
+
+.navbar-dark .navbar-brand:hover {
+    color: #9680FF;
+}
+
 nav {
     background-color: #161421;
 }
