@@ -18,13 +18,13 @@ a:hover {
 }
 
 nav {
-    background-color: #161421;
+    background-color: #191A21;
 }
 
 body {
     font-family: 'Roboto Mono', monospace;
     /* background-color: #0B0A12; */
-    background-color: #2B2640;
+    background-color: #21212D;
     color: #f8f8f2;
 }
 
@@ -45,7 +45,7 @@ h1 {
 /* Classes */
 
 .container {
-    background-color: #161421;
+    background-color: #191A21;
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 20px;
