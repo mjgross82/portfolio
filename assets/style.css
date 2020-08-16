@@ -1,20 +1,20 @@
 /* General Styling */
 
 a {
-    color: #8BFF80;
+    color: #50fa7b;
 }
 
 a:hover {
-    color: #80FFE9;
+    color: #8be9fd;
     text-decoration: none;
 }
 
 .navbar-dark .navbar-brand {
-    color: #8BFF80;
+    color: #50fa7b;
 }
 
 .navbar-dark .navbar-brand:hover {
-    color: #80FFE9;
+    color: #8be9fd;
 }
 
 nav {
@@ -25,21 +25,21 @@ body {
     font-family: 'Roboto Mono', monospace;
     /* background-color: #0B0A12; */
     background-color: #2B2640;
-    color: #F2F2F2;
+    color: #f8f8f2;
 }
 
 h1 {
-    color: #80FFE9;
+    color: #8be9fd;
 }
 
 /* IDs */
 
 #custom-toggler {
-    color: #FF81BF;
+    color: #ff79c6;
 }
 
 #custom-toggler:hover {
-    color: #80FFE9;
+    color: #8be9fd;
 }
 
 /* Classes */
@@ -52,53 +52,53 @@ h1 {
 }
 
 .card {
-    background-color: #22222C;
+    background-color: #282a36;
 }
 
 .card-body {
-    background-color: #22222C;
+    background-color: #282a36;
 }
 
 .card-header {
-    color: #80FFE9;
+    color: #8be9fd;
 }
 
 .card-title {
-    color: #80FFE9;
+    color: #8be9fd;
 }
 
 .contact-list {
-    background-color: #22222C;
-    color: #F2F2F2;
+    background-color: #282a36;
+    color: #f8f8f2;
 }
 
 .contact-icon {
-    color: #8BFF80;
+    color: #50fa7b;
     display: inline-block;
 }
 
 .contact-icon:hover {
-    color: #80FFE9;
+    color: #8be9fd;
 }
 
 .btn {
-    background-color: #C48FFF;
+    background-color: #bd93f9;
     color: #261B32;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: #FF957F;
+    color: #ffb86c;
 }
 
 .navbar-dark .navbar-nav .nav-link.active {
-    color: #FF81BF;
+    color: #ff79c6;
     font-weight: 999;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #80FFE9;
+    color: #8be9fd;
 }
 
 .navbar-dark .navbar-brand h1:hover {
-    color: #80FFE9;
+    color: #8be9fd;
 }
